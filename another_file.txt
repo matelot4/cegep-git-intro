@@ -1,1 +1,7 @@
-blablalbalbalbalbalblablablblablablalbalbalbalbablba
+This is 
+a  file 
+with text 
+in it
+
+i love my cat
+allo
